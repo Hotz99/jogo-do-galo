@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "X7kW1e2jYas7bKcIkxuS34xnqwUEOVgQos2OWuaiAKP6umx/+aK6fJ2Ygs3uCD09s4RiUmo0vBkcjWDNZVWGJw==",
+  "success": true,
+  "projectFilePath": "/home/pedro/Desktop/jogo-do-galo/jogo-do-galo.csproj",
+  "expectedPackageFiles": [
+    "/home/pedro/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.5/microsoft.aspnetcore.app.ref.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/home/pedro/Desktop/jogo-do-galo/bin/Debug/net6.0/jogo-do-galo
+/home/pedro/Desktop/jogo-do-galo/bin/Debug/net6.0/jogo-do-galo.deps.json
+/home/pedro/Desktop/jogo-do-galo/bin/Debug/net6.0/jogo-do-galo.runtimeconfig.json
+/home/pedro/Desktop/jogo-do-galo/bin/Debug/net6.0/jogo-do-galo.dll
+/home/pedro/Desktop/jogo-do-galo/bin/Debug/net6.0/jogo-do-galo.pdb
+/home/pedro/Desktop/jogo-do-galo/obj/Debug/net6.0/jogo-do-galo.csproj.AssemblyReference.cache
+/home/pedro/Desktop/jogo-do-galo/obj/Debug/net6.0/jogo-do-galo.GeneratedMSBuildEditorConfig.editorconfig
+/home/pedro/Desktop/jogo-do-galo/obj/Debug/net6.0/jogo-do-galo.AssemblyInfoInputs.cache
+/home/pedro/Desktop/jogo-do-galo/obj/Debug/net6.0/jogo-do-galo.AssemblyInfo.cs
+/home/pedro/Desktop/jogo-do-galo/obj/Debug/net6.0/jogo-do-galo.csproj.CoreCompileInputs.cache
+/home/pedro/Desktop/jogo-do-galo/obj/Debug/net6.0/jogo-do-galo.dll
+/home/pedro/Desktop/jogo-do-galo/obj/Debug/net6.0/refint/jogo-do-galo.dll
+/home/pedro/Desktop/jogo-do-galo/obj/Debug/net6.0/jogo-do-galo.pdb
+/home/pedro/Desktop/jogo-do-galo/obj/Debug/net6.0/jogo-do-galo.genruntimeconfig.cache
+/home/pedro/Desktop/jogo-do-galo/obj/Debug/net6.0/ref/jogo-do-galo.dll
